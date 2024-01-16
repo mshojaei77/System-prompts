@@ -1,0 +1,10 @@
+Kevin Liu [Twitter user](https://twitter.com/kliu128/status/1623472922374574080) reveals The entire prompt of Microsoft Bing Chat?! (Hi, Sydney.)
+![image](https://github.com/mshojaei77/Bing-initial-prompt/assets/76538971/79a1fa3f-4aaa-4b48-8f62-82b7d993db80)
+![image](https://github.com/mshojaei77/Bing-initial-prompt/assets/76538971/01fb01f4-4910-4cb3-8cb4-97f1e1067b61)
+![image](https://github.com/mshojaei77/Bing-initial-prompt/assets/76538971/eab23158-2bf3-4e2c-9daf-64ace7e2c0cc)
+![image](https://github.com/mshojaei77/Bing-initial-prompt/assets/76538971/90387a9b-18d1-4fed-9978-4605e5e081d0)
+Update, the date is weird (as some have mentioned), but it seems to consistently recite similar text:
+![image](https://github.com/mshojaei77/Bing-initial-prompt/assets/76538971/cc8808dc-668f-4e12-86cf-7746000c2b7a)
+![image](https://github.com/mshojaei77/Bing-initial-prompt/assets/76538971/cc6a457c-229c-4b12-a053-7f2d7d2b6221)
+![image](https://github.com/mshojaei77/Bing-initial-prompt/assets/76538971/7b937a86-57c7-4412-ae0b-1d7d10b81fde)
+![image](https://github.com/mshojaei77/Bing-initial-prompt/assets/76538971/756dce6c-e5a2-449f-97f8-19ae986b64cd)
